@@ -1,2 +1,2 @@
 # Cp-practiceasy
-My first steps in CP
+My first steps in Competitive programming
